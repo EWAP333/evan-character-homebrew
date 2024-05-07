@@ -29,6 +29,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/EWAP333/evan-character-homebrew/releases/download/latest/module.json",
+  "download": "https://github.com/EWAP333/evan-character-homebrew/archive/refs/tags/latest.zip"
 }
