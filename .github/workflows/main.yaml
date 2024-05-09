@@ -33,5 +33,5 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './module.json,./my-module.zip'
+        artifacts: './module.json,./evan-character-homebrew.zip'
         tag: latest
