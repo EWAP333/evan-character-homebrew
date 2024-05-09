@@ -2,7 +2,7 @@
   "id": "evan-character-homebrew",
   "title": "Evan's Character Homebrew",
   "description": "A collection of content for Evan's character.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Evan Powell",
@@ -29,6 +29,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/EWAP333/evan-character-homebrew/releases/download/latest/module.json",
-  "download": "https://github.com/EWAP333/evan-character-homebrew/archive/refs/tags/latest.zip"
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
 }
